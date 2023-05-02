@@ -3,7 +3,6 @@
 
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/html-yellow?style=flat-square&logo=E34F26&logoColor=black"/>
 
 
 
