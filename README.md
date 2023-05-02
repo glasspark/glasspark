@@ -3,7 +3,6 @@
 <img src="https://img.shields.io/badge/html-yellow?style=flat-square&logo=E34F26&logoColor=black"/>
 
 
-
 <!--
 **glasspark/glasspark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
