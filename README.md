@@ -9,8 +9,8 @@
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/oracle SQL-F80000?style=flat&logo=oracle&logoColor=white"/>
-    <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/oracle SQL-F80000?style=flat&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
 </div>
 
 ### 🛠️ Tools 🛠️
