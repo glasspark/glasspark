@@ -2,11 +2,11 @@
 
 
 ### Hi there 👋
-### glass park
+### 💾 glass park 💾
 
-### Studying
+### 📝 Studying 📝
 
-### Tools
+### 🛠️ Tools 🛠️
 
 
 
