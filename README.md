@@ -14,6 +14,10 @@
 </div>
 
 ### 🛠️ Tools 🛠️
+<div>
+<img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=eclipseide&logoColor=white"/>
+  
+</div>
 
 
 <!--
