@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-#E34F26
+<img src="https://img.shields.io/badge/html-yellow?style=flat-square&logo=E34F26&logoColor=black"/>
+
 
 
 
