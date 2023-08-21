@@ -1,15 +1,21 @@
 
 
 
-### Hi there 👋
+##### 현재 공부 중인 백엔드 개발자 입니다
 ### 💾 glass park 💾
+#### Email : glass0270@naver.com
+
 
 ### 📝 Studying 📝
 <div>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/oracle SQL-F80000?style=flat&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white"/>
 </div>
 
 ### 🛠️ Tools 🛠️
